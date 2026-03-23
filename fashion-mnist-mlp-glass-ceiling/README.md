@@ -1,6 +1,6 @@
 # fashion-mnist-mlp-glass-ceiling
 
-> **Part of [`ml-lab-notes`](../)** — a collection of hands-on ML experiments, each a focused deep dive into one concept, tested and visualized.
+> **Part of [`ml-lab-notes`](https://github.com/spouladchang/ml-lab-notes/tree/main)** — a collection of hands-on ML experiments, each a focused deep dive into one concept, tested and visualized.
 
 A rigorous **6-phase controlled ablation study** that extracts the maximum possible accuracy
 from a pure Dense (MLP) network on Fashion-MNIST — one variable at a time — until there
